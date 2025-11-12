@@ -64,6 +64,44 @@ The following Python libraries are required to run this project:
 - pyttsx3
 - openpyxl
 
+## 📘 Usages
+🏢 In Companies / Offices
+
+Employee Attendance Tracking: Automatically mark employees’ in/out time using face recognition instead of manual registers or ID cards.
+
+Shift & Department Records: Separate attendance data by department, shift, or team.
+
+Payroll Integration: Export attendance data to Excel or CSV for salary and HR systems.
+
+Security Enhancement: Restrict unauthorized entry by verifying registered faces only.
+
+Touchless System: Reduces contact — ideal for maintaining hygiene and safety.
+
+Daily/Monthly Reports: Generate attendance reports and analytics for management review.
+
+🎓 In Colleges / Schools
+
+Classroom Attendance: Teachers can take attendance through a webcam automatically when students enter the classroom.
+
+Laboratory & Library Check-ins: Record lab or library attendance without ID cards.
+
+Event Management: Track participants’ presence in seminars, workshops, or fests.
+
+Student Records: Automatically maintain daily, weekly, and monthly attendance in a database.
+
+Faculty Monitoring: Separate panel for tracking teacher attendance.
+
+Integration with Student Portal: Attendance can be shown in the student’s dashboard.
+
+🧩 Other Possible Applications
+
+Hostels or PGs: Monitor entry/exit of residents.
+
+Training Centers: Maintain attendance for multiple batches.
+
+Corporate Events: Manage visitor check-in with real-time verification.
+
+Smart Campuses: Combine with IoT cameras for automated surveillance and attendance.
 
 ### Prerequisites
 - Python **3.8 or higher**
