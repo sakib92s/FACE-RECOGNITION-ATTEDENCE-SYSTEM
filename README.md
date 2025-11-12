@@ -51,6 +51,19 @@ Using advanced **facial recognition algorithms**, the system can identify indivi
 ---
 
 ## 🚀 Installation
+### 🧠 Python Libraries Used
+
+The following Python libraries are required to run this project:
+
+- tkinter
+- mysql-connector-python
+- opencv-python
+- numpy
+- pandas
+- pillow
+- pyttsx3
+- openpyxl
+
 
 ### Prerequisites
 - Python **3.8 or higher**
