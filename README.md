@@ -1,5 +1,7 @@
 # 🎓 Face Recognition Attendance System
 
+(Important Notice : see project-guide.txt file atleast one time)
+
 A comprehensive **face recognition-based attendance system** that automates the process of marking attendance using **computer vision**, **machine learning**, and **web technologies**.
 
 ---
